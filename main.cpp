@@ -1,4 +1,4 @@
-/* Ergasia2.cpp */
+/* Coding.cpp */
 
 #include <iostream>
 #include <fstream>  // ifstream , ofstream//
